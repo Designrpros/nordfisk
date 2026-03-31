@@ -19,76 +19,57 @@ Oslofjorden er Norges mest tilgjengelige fiskefjord - berre 15 minutt frå Oslo 
 | **Abbor** | April-Sept | ★☆☆ | Indre fjord |
 | **Gjedde** | Mars-Juni | ★★☆ | Skarpa, grunt |
 
-## 📍 Beste fiskesteder Oslo
+## 📍 Beste fiskesteder
 
 ### Sentrum
 
-| Plass | Art | Tilgjengelegheit | Korleis? |
-|-------|-----|-----------------|----------|
-| **Aker Brygge** | Torsk, sei | Heile døgnet | T-bane Nationaltheatret |
-| **Kværner Brygge** | Torsk | Heile døgnet | T-bane Carl Berner |
-| **Grünerløkka** | Abbor, gjeds | Heile døgnet | Park |
-
-### Nordre Oslo
-
-| Plass | Art | Tilgjengelegheit | Korleis? |
-|-------|-----|-----------------|----------|
-| **Lillestrøm** | Gjedde, abbor | Heile døgnet | Tog til Lillestrøm |
-| **Skedsmo** | Gjedde | Heile døgnet | Bil 15 min |
-| **Nittedal** | Ørret, abbor | Heile døgnet | Bil 25 min |
+| Stad | Art | Korleis? |
+|------|-----|----------|
+| **[Aker Brygge](spots/aker-brygge.md)** | Torsk, sei | T-bane, gratis |
+| **Kværner Brygge** | Torsk | T-bane |
 
 ### Indre Oslofjord
 
-**Grunna:**
-- **Huk/Bogstad** - Klassisk abbor og gjeds
-- **Søndre Åland** - Båt
-- **Nordre Åland** - Båt
+| Stad | Art | Korleis? |
+|------|-----|----------|
+| **[Huk/Bogstad](spots/huk-bogstad.md)** | Abbor, gjeds | Buss, ferskvann |
+| **Søndre Åland** | Abbor | Båt |
+
+### Nord for Oslo
+
+| Stad | Art | Korleis? |
+|------|-----|----------|
+| **[Lillestrøm](spots/lillestrom.md)** | Gjedde, abbor | Tog 25 min |
 
 ### Ytre Oslofjord
 
-**For meir seriøse fiskere:**
-- **Drøbak** - Torsk, sei
-- **Hvitsten** - Torsk
-- **Svelvik** - Torsk
+| Stad | Art | Korleis? |
+|------|-----|----------|
+| **Drøbak** | Torsk, sei | Bil 45 min |
+| **Hvitsten** | Torsk | Bil 1 time |
 
-## 🎣 Teknikker
+## 🎣 Sesongkalender
 
-### For byrjare
+| Månad | Ferskvann | Sjø |
+|-------|-----------|-----|
+| **Jan** | Isfiske | Torsk |
+| **Feb** | Isfiske | Torsk |
+| **Mars** | Gjedde byrjar | Torsk |
+| **April** | Abbor | Makrell byrjar |
+| **Mai** | Ørret | Makrell, torsk |
+| **Juni** | Laks, ørret | Makrell |
+| **Juli** | Laks, ørret | Makrell |
+| **Aug** | Gjedde | Makrell, sjøørret |
+| **Sept** | Gjedde, abbor | Torsk byrjar |
+| **Okt** | Abbor | Torsk |
+| **Nov** | Abbor, mort | Torsk |
+| **Des** | Isfiske | Torsk |
 
-**Aker Brygge:**
-```
-1. Kjøp henglar-sett (199kr)
-2. Fest mark på kroken
-3. Kast ut frå brygga
-4. Vent til du kjenner biting
-5. Slå til og vik inn!
-```
-
-### For vidrekomne
-
-**Gjedde i indre fjord:**
-```
-1. Bruk wobbler (stor)
-2. Fiske grunt (1-3m)
-3. Sakte innsveivjing
-4. Følg med på tviklar!
-```
-
-## 🚤 Båtfiske Oslofjord
-
-### Leig båt
+## 🚤 Båtfiske
 
 | Selskap | Kvar | Pris |
 |---------|------|------|
 | **Oslo Båtutleige** | Aker Brygge | 800-1500kr/dag |
-| **Båtutleige.no** | Fleire steder | Varierer |
-
-### Charter
-
-| Selskap | Kva? | Pris |
-|---------|-------|------|
-| **Oslo Fiskeguide** | Tur med guide | 2000kr+ |
-| **Fjordfiske** | Dorging, pilking | 1500kr+ |
 
 ## ⚖️ Fiskekort
 
@@ -98,24 +79,6 @@ Oslofjorden er Norges mest tilgjengelige fiskefjord - berre 15 minutt frå Oslo 
 | Ytre Oslofjord | 250kr/dag | Lokalt |
 
 **Merk:** Mange kaier er **gratis** for fiske utan fiskekort!
-
-## 🚗 Korleis kome dit
-
-### Kollektivt
-
-| Frå | Til | Korleis? |
-|-----|-----|----------|
-| Sentrum | Aker Brygge | T-bane (alle linjer) |
-| Sentrum | Huk | Buss 54 eller 30 |
-| Sentrum | Bogstad | Buss 46 |
-
-### Bil
-
-| Til | Kor langt? | Parkering |
-|-----|-----------|-----------|
-| Aker Brygge | 5 min | Dyrt (60kr/t) |
-| Huk | 15 min | Gratis (billett) |
-| Bogstad | 20 min | Gratis |
 
 ## 📱 Nyttige app-ar
 
@@ -131,8 +94,7 @@ Oslofjorden er Norges mest tilgjengelige fiskefjord - berre 15 minutt frå Oslo 
 |-----------|
 | [Fiskesteder Oslo](https://www.google.com/maps/search/fiskesteder+i+Oslo) |
 | [Båtutleige Oslo](https://www.google.com/maps/search/båtutleige+i+Oslo) |
-| [Fiskekort Oslo](https://www.google.com/maps/search/fiskekort+i+Oslo) |
 
 ---
 
-*Tilbake til [Østlandet](index.md)*
+*Tilbake til [Østlandet](../index.md)*

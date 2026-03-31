@@ -54,6 +54,9 @@ nav:
   - Østlandet:
     - Oversikt: ost/index.md
     - Oslofjorden: ost/oslofjord.md
+    - Aker Brygge: ost/spots/aker-brygge.md
+    - Huk/Bogstad: ost/spots/huk-bogstad.md
+    - Lillestrøm: ost/spots/lillestrom.md
     - Drammen: ost/drammen.md
   - Vestlandet:
     - Oversikt: vest/index.md
