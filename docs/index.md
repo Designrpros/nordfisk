@@ -1,74 +1,73 @@
-# NordFisk - Komplett fiskeguide for Norge
+---
+title: NordFISK - Komplett fiskeguide for Norge
+description: Fra T鼻子 til Nordkapp - din komplette guide til fiske i Norge
+---
 
-> Fra T鼻子 til Nordkapp - din komplette guide til fiske i Norge
+# 🎣 NordFISK
 
-## 🎣 Kom i gang
+> Din komplette guide til fiske i Norge
+
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=4.5,58.0,30.0,71.0&layer=mapnik"></iframe>
+
+## 🚀 Kom i gang
 
 Ny til fiske? Start her:
 
-- [[docs/guides/nybyrjar|Nybyrjarguide]] - Lær det grunnleggande
-- [[docs/arter|Allle fiskearter]] - Kjenn igjen kva du fanger
-- [[docs/utstyr/Utstyrskassa di]] - Kva du treng
+- [Nybyrjarguiden](guides/nybyrjar.md) - Lær det grunnleggande
+- [Alle fiskearter](arter/index.md) - Kjenn igjen kva du fanger
+- [Utstyrskassen](utstyr/index.md) - Kva du treng
 
-## 📍 Områder
+## 📍 Områder i Norge
 
-### Nord-Norge (Troms & Finnmark)
+### Nord-Norge
 Isbjørn, nordlys og torsk - det er Nord-Norge!
 
-- [Nordland](docs/nord/nordland.md)
-- [Troms](docs/nord/troms.md)  
-- [Finnmark](docs/nord/finnmark.md)
+- [Nord-Norge](nord/index.md) - Lofoten, Vesterålen, Troms, Finnmark
 
-### Midt-Norge (Trøndelag & Møre)
+### Midt-Norge
 Mjøsna, Trondheim og kysten.
 
-- [Trøndelag](docs/midt/trondelag.md)
-- [Møre](docs/midt/more.md)
+- [Midt-Norge](midt/index.md) - Trøndelag og Møre
 
-### Sør-Norge (Agder & Rogaland)
-Gode spots nær byen.
+### Sørlandet
+Sol, strand og torsk.
 
-- [Agder](docs/sor/agder.md)
-- [Rogaland](docs/sor/rogaland.md)
+- [Sørlandet](sor/index.md) - Kristiansand, Arendal, Mandal
 
-### 🇸🇯 Svalbard
+### Østlandet
+Oslo, Drammen, Mjøsa - alt er nært!
+
+- [Østlandet](ost/index.md) - Oslo, Akershus, Buskerud, Vestfold, Telemark
+
+### Vestlandet
+Fjord, fjell og fantastisk fiske.
+
+- [Vestlandet](vest/index.md) - Bergen, Stavanger, Hardanger
+
+### Svalbard
 For dei eventyrlystne!
 
-- [Svalbard](docs/svalbard/index.md)
+- [Svalbard](svalbard/index.md) - Verdas nordlegaste fiskesteder
 
-## 📚 Guider
+## 🐟 Populære fiskearter
 
-| Guide | Beskrivelse |
-|-------|-------------|
-| [[docs/guides/sjofiske|Sjøfiske]] | Fra kaia eller båt |
-| [[docs/guides/ferskvann|Ferskvann]] | Innsjøer og elver |
-| [[docs/guides/is|fiske]] | Isfiske om vinteren |
-| [[docs/guides/flue|Fluefiske]] | Kunsten å lure fisken |
-
-## 🐟 Arter
-
-Lær kjenne dei vanligaste fiskene:
-
-| Art | Sesong | Vanskeligheitsgrad |
+| Art | Sesong | Vanskelegheitsgrad |
 |-----|--------|-------------------|
-| [[docs/arter/torsk|Torsk]] | Hele året | ★☆☆ |
-| [[docs/arter/sei|Sei]] | Høst/vinter | ★☆☆ |
-| [[docs/arter/laks|Laks]] | Sommer | ★★★ |
-| [[docs/arter/ørret|Ørret]] | Vår/høst | ★★☆ |
-| [[docs/arter/tunge|Tunge]] | Sommer | ★★☆ |
+| [Torsk](arter/torsk.md) | Hele året | ★☆☆ |
+| [Laks](arter/laks.md) | Sommer | ★★★ |
+| [Kveite](arter/kveite.md) | Mai-Sept | ★★★ |
+| [Sei](arter/sei.md) | Høst/vinter | ★☆☆ |
 
 ## 🛠️ Utstyr
 
 | Kategori | Kva trengs |
 |----------|------------|
-| [[docs/utstyr/stenger|Stenger]] | Henglar, sjøhavefisk |
-| [[docs/utstyr/kroker|Kroker]] | Krokar og søkke |
-| [[docs/utstyr/båter|Båt]] | Båtutleige og charter |
+| [Oversikt](utstyr/index.md) | Kva du trenger for å komme i gang |
 
-## 📰 Siste innlegg
+## 📰 Blogg
 
-[[docs/blog/index|Blogg]] - Erfaringar, tips og fangstrapporter
+[Erfaringar, tips og fangstrapporter](blog/index.md)
 
 ---
 
-*NordFisk - Fiskelykke!*
+*NordFISK - Fiskelykke!*

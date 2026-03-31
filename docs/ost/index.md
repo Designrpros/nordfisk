@@ -1,124 +1,185 @@
 ---
-title: 🇳🇴 Østlandet
-description: Fiskesteder på Østlandet - Oslo, Akershus, Buskerud, Vestfold, Telemark
+title: 🇳🇴 Østlandet - detaljert guide
+description: Komplett guide til fiske på Østlandet - Oslo, Akershus, Buskerud, Vestfold, Telemark
 ---
 
 # 🇳🇴 Østlandet
 
-> Fra Oslo til Kragerø - fiskesteder nær byen
+> Norges folkerikaste område - perfekt for bynært fiske
 
 <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=9.0,58.5,12.0,60.5&layer=mapnik"></iframe>
 
-## 🐟 Beste fiskesteder Østlandet
+## 🎯 Kva kan ein fiske på Østlandet?
 
-| Stad | Art | Sesong | Vanskeleg | Kvar? |
-|------|-----|--------|-----------|-------|
-| [Oslofjorden](oslofjord.md) | Torsk, sei, makrell | Hele året | ★☆☆ | 15 min frå sentrum |
-| [Drammenselva](drammen.md) | Laks, sjøørret | Juni-Sept | ★★★ | 1 time frå Oslo |
-| [Mjøsa](mjos.md) | Gjedde, abbor, mort | April-Sept | ★★☆ | 2 timer frå Oslo |
-| [Glomma](glomma.md) | Laks, ørret | Juni-Aug | ★★★ | 2 timer frå Oslo |
-| [Telemark-vassdraget](telemark.md) | Laks, ørret | Hele året | ★★★ | 2.5 timer frå Oslo |
+### Sjøfiske
 
-## 📍 Oslo-området
+| Art | Beste tid | Korleis? | Vanskeleg |
+|-----|-----------|----------|-----------|
+| **Torsk** | Jan-Mai, Sept-Des | Kaifiske, båt | ★☆☆ |
+| **Sei** | Sept-Mai | Dyptvanns | ★☆☆ |
+| **Makrell** | Juni-Sept | Flying angling | ★★☆ |
+| **Kveite** | Mai-Sept | Båt, tungt utstyr | ★★★ |
+| **Sjøørret** | Mai-Sept | Fluge, spinner | ★★★ |
 
-### By-nært fiske
+### Ferskvann
 
-| Plass | Art | Tilgjengelegheit | Korleis? |
-|-------|-----|------------------|----------|
-| [Aker Brygge](oslo.md#aker-brygge) | Torsk, sei | Heile døgnet | T-bane til Nationaltheatret |
-| [Bygdøy](oslo.md#bygdoey) | Torsk, makrell | Heile døgnet | Båt eller gangsti |
-| [Huk](oslo.md#huk) | Abbor, gjeds | Heile døgnet | Buss til Bygdøy |
-| [Kongsberg](oslo.md#kongsberg) | Laks | Juni-Aug | Tog/bil |
+| Art | Beste tid | Korleis? | Vanskeleg |
+|-----|-----------|----------|-----------|
+| **Abbor** | April-Sept | Wobbler, mark | ★☆☆ |
+| **Gjedde** | Mars-Juni | Wobbler, spinner | ★★☆ |
+| **Mort** | Mai-Sept | Brødsump | ☆☆☆ |
+| **Laks** | Juni-Aug | Flue, spinner | ★★★ |
+| **Ørret** | Mai-Sept | Flue, mark | ★★☆ |
 
-### Gratis by-nære spots
+---
 
-**For byrjare:**
-- Aker Brygge - Berre å stå der og kast!
-- Hovedøya - Båt 15 min frå Rådhusplassen
-- Gressholmen - Gangsti eller båt
+## 📍 Dei beste by-nære fiskestadene
 
-## 🗺️ Google Maps - Søk sjølv
+### Oslo
 
-| Kategori | Lenkje |
-|----------|--------|
-| 🎣 Fiskesteder | [Søk på Østlandet](https://www.google.com/maps/search/fiskesteder/@59.5,10.5,9m) |
-| 🚤 Båtutleige | [Søk på Østlandet](https://www.google.com/maps/search/båtutleige/@59.5,10.5,9m) |
-| 🎣 Fiskekort | [Søk på Østlandet](https://www.google.com/maps/search/fiskekort/@59.5,10.5,9m) |
+| Plass | Art | Tilgjengelegheit | Kva? |
+|-------|-----|-----------------|-------|
+| **Aker Brygge** | Torsk, sei | T-bane | Gratis, lett |
+| **Huk/Bogstad** | Abbor, gjeds | Buss | Fredagstur-klassikar |
+| **Søndre Åland** | Abbor | Båt | 20 min frå sentrum |
+| **V Oslo (Lillestrøm)** | Gjedde | Tog | 30 min |
+
+### Akershus
+
+| Plass | Art | Tilgjengelegheit | Kva? |
+|-------|-----|-----------------|-------|
+| **Nittedal** | Ørret, abbor | Bil 25 min | Flott natur |
+| **Ski** | Gjedde, abbor | Tog 25 min | Lett tilgjengeleg |
+| **Drøbak** | Torsk, sei | Bil 45 min | Båtutleige der |
+
+### Buskerud
+
+| Plass | Art | Tilgjengelegheit | Kva? |
+|-------|-----|-----------------|-------|
+| **Drammen** | Laks, sjøørret | Bil 1 time | Norges beste sjøørret |
+| **Kongsberg** | Laks | Bil 1.5 time | God lakseelv |
+| **Hemsedal** | Ørret, røye | Bil 3 timer | Fjellfiske |
+
+### Vestfold
+
+| Plass | Art | Tilgjengelegheit | Kva? |
+|-------|-----|-----------------|-------|
+| **Tønsberg** | Torsk, makrell | Bil 1.5 time | Norges eldste by |
+| **Nøtterøy** | Torsk | Bil 2 timer | Båt er best |
+| **Sandefjord** | Torsk | Bil 2 timer | Fleire kaier |
+
+### Telemark
+
+| Plass | Art | Tilgjengelegheit | Kva? |
+|-------|-----|-----------------|-------|
+| **Skien/Porsgrunn** | Laks, torsk | Bil 2.5 time | God lakseelv |
+| **Kragerø** | Torsk, makrell | Bil 3 timer | Premium kystfiske |
+| **Rjukan** | Ørret, røye | Bil 4 timer | Fjellfiske |
+
+---
 
 ## 🎣 Sesongkalender Østlandet
 
-| Månad | Ferskvann | Sjø |
-|-------|-----------|-----|
-| Jan | Isfiske på Mjøsa | Torsk (kaifiske) |
-| Feb | Isfiske | Torsk |
-| Mars | Isfiske, venting | Torsk, sei byrjar |
-| April | Opning av sesong | Makrell byrjar |
-| Mai | Ørret | Makrell, torsk |
-| Juni | Laks, ørret | Makrell, torsk |
-| Juli | Laks, ørret | Makrell |
-| Aug | Laks, ørret | Makrell, sjøørret |
-| Sept | Ørret, gjedde | Torsk byrjar att |
-| Okt | Gjedde, abbor | Torsk |
-| Nov | Abbor, mort | Torsk |
-| Des | Isfiske byrjar | Torsk |
+| Månad | Ferskvann | Sjøfiske | Tips |
+|-------|-----------|----------|------|
+| **Jan** | Isfiske | Torsk (kaifiske) | Berre for erfarne |
+| **Feb** | Isfiske | Torsk | Isfiske på Mjøsa! |
+| **Mars** | Isfiske, venting | Torsk byrjar | Gjedde starter |
+| **April** | Opning! Abbor | Makrell byrjar | Abbor = beste byrjarfisk |
+| **Mai** | Ørret | Makrell, torsk | Sjøørret starter |
+| **Juni** | Laks, ørret | Makrell topp | Laksesong! |
+| **Juli** | Laks, ørret | Makrell | Sommarferie |
+| **Aug** | Laks, ørret, gjeds | Makrell, sjøørret | Gjedde framleis bra |
+| **Sept** | Gjedde, abbor | Torsk byrjar att | Hostfiske |
+| **Okt** | Gjedde, abbor | Torsk | Gjedde = beste no |
+| **Nov** | Abbor, mort | Torsk | Lett og gøy |
+| **Des** | Isfiske byrjar | Torsk | Julefiske? |
 
-## 🏆 Topp 5 for nybyrjare på Østlandet
+---
 
-1. **Aker Brygge** - Gratis, lett tilgjengeleg, torsk rett utanfor
-2. **Huk/Bogstad** - Ferskvann, abbor rett ved
-3. **Drammenselva (sjøørret)** - Berre ein time unna
-4. **Oslofjorden** - Fleire arter, båt eller kaifiske
-5. **Mjøsa** - Gjedde, abbor, fin natur
+## 🏆 Topp 10 for byrjare på Østlandet
+
+1. **Aker Brygge, Oslo** - Berre kast og vent!
+2. **Huk, Oslo** - Abbor rett ved land
+3. **Lillestrøm** - Gjedde rett utanfor byen
+4. **Bogstad, Oslo** - Abbor og gjeds i pakke
+5. **Drammen** - Sjøørret rett i elva
+6. **Ski** - Fredagstur med tog
+7. **Drøbak** - Båtfiske nært Oslo
+8. **Mjøsa (Hamar)** - Norges største innsjø
+9. **Tønsberg** - Kystfiske for alle
+10. **Kragerø** - Premium oppleving
+
+---
 
 ## ⚖️ Fiskekort og lisensar
 
 ### Fiskekort
 
-| Område | Pris | Kor kjøpe |
-|--------|------|----------|
-| Oslo-fjordens JFF | 200kr/dag | App eller naust |
-| Drammenselva | 350kr/dag | naust |
-| Mjøsa | 250kr/dag | naust |
-| Telemark | 300kr/dag | naust |
+| Område | Pris/dag | Spesialitet |
+|--------|----------|-------------|
+| Oslo og Akershus | 200kr | Dei fleste vassdrag |
+| Drammen | 300kr | Sjøørret elite |
+| Mjøsa | 200kr | Gjedde, abbor |
+| Telemark | 250kr | Laks, ørret |
 
 ### Fiskerlisens
 
 **Påkravd for:**
-- Laksefiske
-- Sjøørret-fiske
+- ✅ Laksefiske
+- ✅ Sjøørret-fiske  
+- ❌ Anna ferskvann (vanlegvis)
 
-**Kor få tak:**
-- [Fiskerlisens.no](https://www.fiskerlisens.no) - Digital lisens
+**Kor kjøpe:**
+- [Fiskerlisens.no](https://www.fiskerlisens.no)
 - App: "Fiskerlisens" (iOS/Android)
 
-## 📱 Nyttige app-ar
-
-| App | Bruk | Nedlasting |
-|-----|------|-----------|
-| [Yr](https://www.yr.no) | Vêr og vind | App Store / Google Play |
-| [Navionics](https://www.navionics.com) | Sjøkart | App Store / Google Play |
-| [Fiskeguiden](https://www.fiskeguiden.no) | Fiskekort | App Store / Google Play |
-| [nDive](https://www.ndive.no) | Dykking og sjøliv | App Store / Google Play |
+---
 
 ## 🚗 Korleis kome seg dit
 
 ### Fra Oslo
 
-| Stad | Bil | Kollektiv |
-|------|-----|----------|
-| Aker Brygge | 10 min | T-bane |
-| Drammen | 1 time | Tog (40 min) |
-| Mjøsa (Lillehammer) | 2 timer | Tog (2 timer) |
-| Telemark | 2.5 timer | Bil |
-
-## 🔗 Nyttige lenkjer
-
-| Lenkje | Beskrivelse |
-|--------|-------------|
-| [Oslofjorden](https://www.oslofjorden.no) | Turistinfo Oslofjorden |
-| [Drammen FISK](https://www.drammenfisk.no) | Fiskekort Drammen |
-| [Telemark FISK](https://www.telemarkfisk.no) | Fiskekort Telemark |
+| Stad | Bil | Kollektivt | Tips |
+|------|-----|------------|------|
+| Aker Brygge | 5 min | T-bane | Berre T-bane! |
+| Huk | 15 min | Buss 54 | Avganger heile døgnet |
+| Lillestrøm | 30 min | Tog 25 min | Tog er best! |
+| Drammen | 1 time | Tog 40 min | Tog til sentrum |
+| Mjøsa (Hamar) | 2 timer | Tog 2t 15min | Verdens vakraste? |
+| Kragerø | 2.5 timer | Bil | Biltur verdt det |
 
 ---
 
-*Lurt på meir? → [[arter/index.md|Alle fiskearter]]*
+## 📱 Nyttige app-ar
+
+| App | Kva? | Last ned |
+|-----|-----|---------|
+| [Yr](https://www.yr.no) | Vêr | Begge |
+| [Fiskekort](https://www.fiskekort.no) | Kjøp kort | Begge |
+| [Navionics](https://www.navionics.com) | Sjøkart | Begge |
+| [Fiskeguiden](https://www.fiskeguiden.no) | Spots | Begge |
+
+---
+
+## 🔗 Nyttige lenkjer
+
+| Lenkje | Kva? |
+|--------|------|
+| [Oslofjorden.no](https://www.oslofjorden.no) | Turistinfo |
+| [Drammen FISK](https://www.drammenfisk.no) | Fiskekort |
+| [Telemark FISK](https://www.telemarkfisk.no) | Fiskekort |
+
+---
+
+## 🗺️ Google Maps
+
+Søk sjølv:
+- [Fiskesteder Oslo](https://www.google.com/maps/search/fiskesteder+i+Oslo)
+- [Fiskesteder Drammen](https://www.google.com/maps/search/fiskesteder+i+Drammen)
+- [Båtutleige Oslo](https://www.google.com/maps/search/båtutleige+i+Oslo)
+- [Fiskekort Oslo](https://www.google.com/maps/search/fiskekort+i+Oslo)
+
+---
+
+*Vil du meir? → [[arter/index.md|Alle fiskearter]]*

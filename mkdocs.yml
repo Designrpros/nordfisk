@@ -37,7 +37,13 @@ nav:
     - Østlandet: ost/index.md
     - Vestlandet: vest/index.md
     - Svalbard: svalbard/index.md
-  - Arter: arter/index.md
+  - Arter:
+    - Alle arter: arter/index.md
+    - Torsk: arter/torsk.md
+    - Laks: arter/laks.md
+    - Kveite: arter/kveite.md
+    - Ørret: arter/orret.md
+    - Sei: arter/sei.md
   - Guider:
     - Nybyrjar: guides/nybyrjar.md
   - Utstyr: utstyr/index.md
