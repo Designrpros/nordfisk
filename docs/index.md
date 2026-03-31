@@ -1,6 +1,6 @@
 ---
 title: NordFISK - Komplett fiskeguide for Norge
-description: Fra T鼻子 til Nordkapp - din komplette guide til fiske i Norge
+description: Fra Troll til Nordkapp - din komplette guide til fiske i Norge
 ---
 
 # 🎣 NordFISK

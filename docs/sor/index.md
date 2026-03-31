@@ -3,7 +3,7 @@ title: 🇳🇴 Sørlandet
 description: Fiskesteder på Sørlandet - Kristiansand, Arendal, Mandal
 ---
 
-# 🇳�orsk/Sørlandet
+# 🇳🇴/Sørlandet
 
 > Sol, strand og torsk - Sørlandet har alt
 
