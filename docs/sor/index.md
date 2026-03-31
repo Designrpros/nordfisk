@@ -5,7 +5,13 @@ description: Fiskesteder på Sørlandet - Kristiansand, Arendal, Mandal, Rogalan
 
 # 🇳🇴 Sørlandet
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=6.5,57.8,9.0,58.7&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=6.5,57.8,9.0,58.7&layer=mapnik&marker=58.1469,7.9972&marker=58.4610,8.7710&marker=58.0250,7.4530&marker=58.9700,5.7300"></iframe>
+
+<div style="text-align: center; margin-top: 10px;">
+  📍 Pins: Kristiansand | Arendal | Mandal | Rogaland
+  <br/>
+  <a href="https://www.openstreetmap.org/?mlat=58.0000&mlon=7.5000#map=8/58.0000/7.5000" target="_blank">Åpne i OpenStreetMap</a>
+</div>
 
 ## 🐟 Beste fiskesteder Sørlandet
 

@@ -5,7 +5,11 @@ description: Fiskesteder i Trondheim - Norges laksehovedstad
 
 # 🏙️ Trondheim
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=9.8,63.4,11.0,63.5&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=9.8,63.4,11.0,63.5&layer=mapnik&marker=63.4305,10.3951"></iframe>
+
+<div style="text-align: center; margin-top: 10px;">
+  <a href="https://www.openstreetmap.org/?mlat=63.4305&mlon=10.3951#map=12/63.4305/10.3951" target="_blank">📍 Åpne i OpenStreetMap</a>
+</div>
 
 ## 🐟 Fisk i Trondheim
 

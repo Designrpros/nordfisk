@@ -7,7 +7,13 @@ description: Fiskesteder på Svalbard - Isbjørn, nordlys og arktisk fiske
 
 > Verdas nordlegaste fiskesteder - ein eventyrferd
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=15.0,77.0,17.0,78.5&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=15.0,77.0,17.0,78.5&layer=mapnik&marker=78.2232,15.6267"></iframe>
+
+<div style="text-align: center; margin-top: 10px;">
+  📍 Pin: Longyearbyen
+  <br/>
+  <a href="https://www.openstreetmap.org/?mlat=78.2232&mlon=15.6267#map=10/78.2232/15.6267" target="_blank">Åpne i OpenStreetMap</a>
+</div>
 
 ## ⚠️ Viktig før du drar
 

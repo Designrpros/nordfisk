@@ -5,7 +5,11 @@ description: Alt du trenger å vite om fiske ved Aker Brygge i Oslo
 
 # 🎣 Aker Brygge
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=10.72,59.91,10.75,59.92&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=10.72,59.91,10.75,59.92&layer=mapnik&marker=59.9150,10.7270"></iframe>
+
+<div style="text-align: center; margin-top: 10px;">
+  <a href="https://www.openstreetmap.org/?mlat=59.9150&mlon=10.7270#map=16/59.9150/10.7270" target="_blank">📍 Åpne i OpenStreetMap</a>
+</div>
 
 ## 🐟 Kva fisk?
 

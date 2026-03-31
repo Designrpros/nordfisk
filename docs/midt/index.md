@@ -5,7 +5,13 @@ description: Fiskesteder i Trøndelag og Møre - Trondheim, Mjøsa, Romsdalen
 
 # 🇳🇴 Midt-Norge
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=6.0,62.5,11.0,64.0&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=6.0,62.5,11.0,64.0&layer=mapnik&marker=63.4305,10.3951&marker=60.9300,10.7000&marker=63.1100,7.7300&marker=62.7375,7.1500&marker=62.5000,7.9000"></iframe>
+
+<div style="text-align: center; margin-top: 10px;">
+  📍 Pins: Trondheim | Mjøsa | Kristiansund | Molde | Romsdalen
+  <br/>
+  <a href="https://www.openstreetmap.org/?mlat=63.0000&mlon=9.0000#map=7/63.0000/9.0000" target="_blank">Åpne i OpenStreetMap</a>
+</div>
 
 ## 🐟 Beste fiskesteder Midt-Norge
 

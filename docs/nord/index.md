@@ -5,7 +5,13 @@ description: Fiskesteder i Nordland, Troms og Finnmark - Lofoten, Vesterålen, T
 
 # 🇳🇴 Nord-Norge
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=10.5,66.0,30.0,70.5&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=10.5,66.0,30.0,70.5&layer=mapnik&marker=68.2098,14.5608&marker=69.6496,18.9550&marker=68.8000,15.5000&marker=70.5000,25.5000&marker=71.1710,25.9814"></iframe>
+
+<div style="text-align: center; margin-top: 10px;">
+  📍 Pins: Svolvær | Tromsø | Vesterålen | Finnmark | Nordkapp
+  <br/>
+  <a href="https://www.openstreetmap.org/?mlat=69.0000&mlon=18.0000#map=7/69.0000/18.0000" target="_blank">Åpne i OpenStreetMap</a>
+</div>
 
 ## 🐟 Beste fiskesteder i Nord
 

@@ -5,7 +5,11 @@ description: Fiskesteder i Drammen-området - Norges beste sjøørretfiske
 
 # 🏙️ Drammen
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=9.5,59.7,10.5,59.9&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=9.5,59.7,10.5,59.9&layer=mapnik&marker=59.7430,10.2040"></iframe>
+
+<div style="text-align: center; margin-top: 10px;">
+  <a href="https://www.openstreetmap.org/?mlat=59.7430&mlon=10.2040#map=14/59.7430/10.2040" target="_blank">📍 Åpne i OpenStreetMap</a>
+</div>
 
 ## 🐟 Fisk i Drammen
 

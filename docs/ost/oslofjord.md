@@ -5,7 +5,11 @@ description: Fiskesteder i Oslofjorden - Norges mest tilgjengelige fiskefjord
 
 # 🌊 Oslofjorden
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=10.3,59.7,11.0,60.0&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=10.3,59.7,11.0,60.0&layer=mapnik&marker=59.8500,10.6500"></iframe>
+
+<div style="text-align: center; margin-top: 10px;">
+  <a href="https://www.openstreetmap.org/?mlat=59.8500&mlon=10.6500#map=12/59.8500/10.6500" target="_blank">📍 Åpne i OpenStreetMap</a>
+</div>
 
 ## 🐟 Fisk i Oslofjorden
 

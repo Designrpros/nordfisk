@@ -5,7 +5,11 @@ description: Fiskested ved Lillestrøm - godt gjeddefiske
 
 # 🎣 Lillestrøm
 
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=11.04,59.95,11.10,59.98&layer=mapnik"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=11.04,59.95,11.10,59.98&layer=mapnik&marker=59.9550,11.0500"></iframe>
+
+<div style="text-align: center; margin-top: 10px;">
+  <a href="https://www.openstreetmap.org/?mlat=59.9550&mlon=11.0500#map=16/59.9550/11.0500" target="_blank">📍 Åpne i OpenStreetMap</a>
+</div>
 
 ## 🐟 Kva fisk?
 

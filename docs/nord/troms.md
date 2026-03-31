@@ -5,7 +5,11 @@ description: Fiskesteder i Tromsø-området - porten til Nord-Norge
 
 # 🏙️ Tromsø
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=17.5,69.3,19.5,70.0&layer=mapnik"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=17.5,69.3,19.5,70.0&layer=mapnik&marker=69.6496,18.9550"></iframe>
+
+<div style="text-align: center; margin-top: 10px;">
+  <a href="https://www.openstreetmap.org/?mlat=69.6496&mlon=18.9550#map=11/69.6496/18.9550" target="_blank">📍 Åpne i OpenStreetMap</a>
+</div>
 
 ## 🐟 Fisk i Tromsø
 
