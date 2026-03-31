@@ -25,7 +25,7 @@ Bergen har fleire gode kaier rett i sentrum - heilt gratis!
 |-----|-----|----------|
 | [Bryggen](bergen.md#sentrum) | Torsk, sei | Gangsti frå sentrum |
 | [Sandviken](bergen.md#sentrum) | Torsk, sei | Gangsti opp_att |
-| [Åsane](bergen.md#by-nært) | Torsk, kveite | Bil 15 min |
+| [Åsane](bergen.md) | Torsk, kveite | Bil 15 min |
 
 ### Bergen by-nært
 

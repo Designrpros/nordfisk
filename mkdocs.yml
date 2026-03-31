@@ -30,13 +30,40 @@ theme:
 
 nav:
   - Hjem: index.md
-  - Områder:
-    - Nord-Norge: nord/index.md
-    - Midt-Norge: midt/index.md
-    - Sørlandet: sor/index.md
-    - Østlandet: ost/index.md
-    - Vestlandet: vest/index.md
-    - Svalbard: svalbard/index.md
+  - Nord-Norge:
+    - Oversikt: nord/index.md
+    - Lofoten: nord/lofoten.md
+    - Tromsø: nord/troms.md
+    - Vesterålen: nord/vesteralen.md
+    - Finnmark: nord/finnmark.md
+    - Nordkapp: nord/nordkapp.md
+  - Midt-Norge:
+    - Oversikt: midt/index.md
+    - Trondheim: midt/trondheim.md
+    - Mjøsa: midt/mjos.md
+    - Romsdalen: midt/romsdal.md
+    - Kristiansund: midt/kristiansund.md
+    - Molde: midt/molde.md
+  - Sørlandet:
+    - Oversikt: sor/index.md
+    - Kristiansand: sor/kristiansand.md
+    - Arendal: sor/arendal.md
+    - Mandal: sor/mandal.md
+    - Rogaland: sor/rogaland.md
+    - Lister: sor/lister.md
+  - Østlandet:
+    - Oversikt: ost/index.md
+    - Oslofjorden: ost/oslofjord.md
+    - Drammen: ost/drammen.md
+  - Vestlandet:
+    - Oversikt: vest/index.md
+    - Bergen: vest/bergen.md
+    - Stavanger: vest/stavanger.md
+    - Hardanger: vest/hardanger.md
+    - Flåm: vest/flam.md
+  - Svalbard:
+    - Oversikt: svalbard/index.md
+    - Longyearbyen: svalbard/longyearbyen.md
   - Arter:
     - Alle arter: arter/index.md
     - Torsk: arter/torsk.md

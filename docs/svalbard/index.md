@@ -25,8 +25,8 @@ description: Fiskesteder på Svalbard - Isbjørn, nordlys og arktisk fiske
 | Stad | Art | Sesong | Vanskeleg | Kva? |
 |------|-----|--------|-----------|-------|
 | [Isfjorden](longyearbyen.md) | Torsk, sei, kveite | Juni-Sept | ★★★ | Hovudfjorden |
-| [Adventfjorden](longyearbyen.md#advent) | Torsk, steinbit | Juni-Sept | ★★★ | Nær Longyearbyen |
-| [Billefjorden](longyearbyen.md#bille) | Kveite, torsk | Juli-Aug | ★★★ | Premium-område |
+| [Adventfjorden](longyearbyen.md) | Torsk, steinbit | Juni-Sept | ★★★ | Nær Longyearbyen |
+| [Billefjorden](longyearbyen.md) | Kveite, torsk | Juli-Aug | ★★★ | Premium-område |
 
 ### Sysselmannen
 

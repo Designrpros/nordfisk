@@ -27,7 +27,7 @@ Kristiansand er Sørlandets hovedstad med variert fiske.
 | [Baneheia](kristiansand.md#baneheia) | Abbor, gjeds | Gangsti frå sentrum |
 | [Kvavik](kristiansand.md#kvavik) | Torsk, sei | 10 min bil |
 | [Møvik](kristiansand.md#movik) | Torsk | 15 min bil |
-| [Ravnåka](kristiansand.md#ravnaka) | Torsk, sei | Båt |
+| [Ravnåka](kristiansand.md) | Torsk, sei | Båt |
 
 ### For sjøørret
 
