@@ -1,0 +1,44 @@
+site_name: NordFISK
+site_description: Komplett fiskeguide for Norge - spots, arter, utstyr og guider
+site_author: NordFISK
+site_url: https://nordfisk.no
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: deep blue
+      accent: teal
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: teal
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+nav:
+  - Hjem: index.md
+  - Områder:
+    - Nord-Norge: nord/index.md
+    - Midt-Norge: midt/index.md
+    - Sørlandet: sor/index.md
+    - Østlandet: ost/index.md
+    - Vestlandet: vest/index.md
+    - Svalbard: svalbard/index.md
+  - Arter: arter/index.md
+  - Guider:
+    - Nybyrjar: guides/nybyrjar.md
+  - Utstyr: utstyr/index.md
+  - Blogg: blog/index.md
