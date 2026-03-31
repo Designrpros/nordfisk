@@ -5,29 +5,27 @@ description: Fiskesteder på Vestlandet - Bergen, Stavanger, Hardanger
 
 # 🇳🇴 Vestlandet
 
-> Fjord, fjell og fantastisk fiske - frå Stavanger til Flåm
-
 <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=4.5,59.5,8.0,61.0&layer=mapnik"></iframe>
 
 ## 🐟 Beste fiskesteder Vestlandet
 
-| Stad | Art | Sesong | Vanskeleg | Kva? |
-|------|-----|--------|-----------|-------|
-| [Bergen](bergen.md) | Torsk, sei, kveite | Hele året | ★☆☆ | Kaier overalt! |
-| [Stavanger](stavanger.md) | Torsk, kveite | Mars-Sept | ★★☆ | Preimum kveite |
-| [Hardanger](hardanger.md) | Laks, ørret | Juni-Aug | ★★★ | Norges beste lakseelv |
-| [Flåm](flam.md) | Ørret, røye | Mai-Sept | ★★☆ | Aurlandsfjord |
+| Stad | Art | Sesong | Vanskeleg |
+|------|-----|--------|-----------|
+| [Bergen](bergen.md) | Torsk, sei, kveite | Hele året | ★☆☆ |
+| [Stavanger](stavanger.md) | Torsk, kveite | Mars-Sept | ★★☆ |
+| [Hardanger](hardanger.md) | Laks, ørret | Juni-Aug | ★★★ |
 
-## 📍 Bergen-området
+## 📍 Bergen
+
+Bergen har fleire gode kaier rett i sentrum - heilt gratis!
 
 ### Dei beste kaiene
 
-| Kai | Kva fisk? | Korleis? |
-|-----|----------|----------|
-| Bryggen | Torsk, sei | Gangsti frå sentrum |
-| Sandviken | Torsk, sei | Gangsti opp_att |
-| Laksevåg | Torsk | Båt eller bybane |
-| Åsane | Torsk, kveite | Bil 15 min |
+| Kai | Art | Korleis? |
+|-----|-----|----------|
+| [Bryggen](bergen.md#sentrum) | Torsk, sei | Gangsti frå sentrum |
+| [Sandviken](bergen.md#sentrum) | Torsk, sei | Gangsti opp_att |
+| [Åsane](bergen.md#by-nært) | Torsk, kveite | Bil 15 min |
 
 ### Bergen by-nært
 
@@ -39,6 +37,15 @@ description: Fiskesteder på Vestlandet - Bergen, Stavanger, Hardanger
 **Med båt:**
 - Bjørnafjorden - 30 min med fergen
 - Holmedalsfjorden - 45 min båt
+
+## 📍 Hardanger
+
+Hardanger er kjent for **innlandsfiske** i tillegg til laksefiske:
+
+| Innsjø | Art | Korleis? |
+|--------|-----|----------|
+| Eidfjordvatnet | Ørret, røye | Fjellstø og taubane |
+| Simafjorden | Sjøørret | Båt eller frå land |
 
 ## 🎣 Sesongkalender Vestlandet
 
@@ -54,11 +61,11 @@ description: Fiskesteder på Vestlandet - Bergen, Stavanger, Hardanger
 
 ## 🗺️ Google Maps Vestlandet
 
-| Kategori | Lenkje |
-|----------|--------|
-| 🎣 Fiskesteder | [Søk Vestlandet](https://www.google.com/maps/search/fiskesteder/@60.0,6.0,9m) |
-| 🚤 Båtutleige | [Søk Vestlandet](https://www.google.com/maps/search/båtutleige/@60.0,6.0,9m) |
-| 🎣 Fiskeguide | [Søk Vestlandet](https://www.google.com/maps/search/fiskeguide/@60.0,6.0,9m) |
+| Søk etter |
+|-----------|
+| [Fiskesteder Bergen](https://www.google.com/maps/search/fiskesteder+i+Bergen) |
+| [Fiskesteder Stavanger](https://www.google.com/maps/search/fiskesteder+i+Stavanger) |
+| [Båtutleige Bergen](https://www.google.com/maps/search/båtutleige+i+Bergen) |
 
 ## ⚖️ Fiskekort Vestlandet
 
@@ -84,15 +91,6 @@ description: Fiskesteder på Vestlandet - Bergen, Stavanger, Hardanger
 | Bergen | 1.5 time | 100km |
 | Oslo | 4.5 timer | 350km |
 
-## 🏔️ Fjellfiske
-
-Hardanger er kjent for **innlandsfiske** i tillegg til laksefiske:
-
-| Innsjø | Art | Korleis? |
-|--------|-----|----------|
-| [Eidfjordvatnet](hardanger.md#eidfjord) | Ørret, røye | Fjellstø og taubane |
-| [Simafjorden](hardanger.md#sima) | Sjøørret | Båt eller frå land |
-
 ## 🔗 Nyttige lenkjer
 
 | Lenkje | Beskrivelse |
@@ -100,6 +98,10 @@ Hardanger er kjent for **innlandsfiske** i tillegg til laksefiske:
 | [Bergen FISK](https://www.bergenfisk.no) | Fiskekort Bergen |
 | [Hardanger FH](https://www.hardangerfjord.no) | Turistinfo |
 
+## 📰 Blogg-innlegg
+
+- [Bergens beste kaier](../blog/bergen-kaia.md) - Gratis bynært fiske
+
 ---
 
-*Vil du lære meir? → [[arter/index.md|Alle fiskearter]]*
+*Tilbake til [forsida](../index.md)*

@@ -1,6 +1,6 @@
 ---
 title: 🇳🇴 Nord-Norge
-description: Fiskesteder i Nordland, Troms og Finnmark
+description: Fiskesteder i Nordland, Troms og Finnmark - Lofoten, Vesterålen, Tromsø
 ---
 
 # 🇳🇴 Nord-Norge
@@ -12,18 +12,10 @@ description: Fiskesteder i Nordland, Troms og Finnmark
 | Stad | Art | Sesong | Vanskeleg |
 |------|-----|--------|-----------|
 | [Lofoten](lofoten.md) | Torsk, sei, kveite | Hele året | ★★☆ |
+| [Tromsø](troms.md) | Torsk, sei, laks | Nov-Mars | ★☆☆ |
 | [Vesterålen](vesteralen.md) | Torsk, laks | Mars-Mai | ★★☆ |
-| [Tromsø-området](troms.md) | Torsk, uer | Nov-Mars | ★☆☆ |
-| [Finnmarksvidda](finnmark.md) | Ørret, røye | Juni-Sept | ★★★ |
+| [Finnmark](finnmark.md) | Ørret, røye | Juni-Sept | ★★★ |
 | [Nordkapp](nordkapp.md) | Torsk, sei | Juni-Aug | ★★☆ |
-
-## 🗺️ Google Maps
-
-| Kategori | Lenkje |
-|----------|--------|
-| 🎣 Fiskesteder | [Søk i Nord-Norge](https://www.google.com/maps/search/fiskesteder+i+Norway/@68.5,17.0,8m) |
-| 🚤 Båtutleige | [Søk i Nord-Norge](https://www.google.com/maps/search/båtutleige+loddy+Norway/@68.5,17.0,8m) |
-| 🎣 Fiskeguide | [Søk i Nord-Norge](https://www.google.com/maps/search/fiskeguide+i+Norway/@68.5,17.0,8m) |
 
 ## 📍 Lofoten
 
@@ -33,19 +25,23 @@ Lofoten er eit av dei mest kjende fiskestedene i verda. Torskefisket er spesielt
 
 | Spot | GPS | Art |
 |------|-----|-----|
-| Svolvær | 68.23°N, 14.57°E | Torsk, sei |
-| Henningsvær | 68.15°N, 14.20°E | Torsk |
-| Reine | 67.93°N, 13.09°E | Torsk, kveite |
+| [Svolvær](lofoten.md#svolvær-området) | 68.23°N, 14.57°E | Torsk, sei |
+| [Henningsvær](lofoten.md#henningsvær-området) | 68.15°N, 14.20°E | Torsk |
+| [Reine](lofoten.md#reine-området) | 67.93°N, 13.09°E | Torsk, kveite |
 
-## 📍 Finnmark
+## 📍 Tromsø
 
-Finnmark byr på arktisk fiskeoppleving - fra kystfiske til innlandsører.
+Tromsø byr på arktisk fiskeoppleving - fra kystfiske til innlandsører.
 
 ### Korleis kome seg dit
 
+- **Fly**: direkte til Tromsø (1.5 time fra Oslo)
 - **Bil**: E6 går heilt til Kirkenes
-- **Fly**: direkte til Tromsø, Alta, Kirkenes
-- **Båt**: Hurtigruta mellom dei fleste stadene
+- **Hurtigruta**: Mellom dei fleste stadene
+
+## 📍 Vesterålen
+
+Vesterålen ligg like nord for Lofoten og byr på gode fiskeopplevingar.
 
 ## 🎣 Sesongkalender Nord
 
@@ -55,12 +51,12 @@ Finnmark byr på arktisk fiskeoppleving - fra kystfiske til innlandsører.
 | April-Mai | Torskefiske topp, laks starter |
 | Juni-Aug | Laks, sjøørret, kveite |
 | Sept-Okt | Sein-sesong, kveite |
-| Nov-Dec | Torskefiske byrjar att |
+| Nov-Des | Torskefiske byrjar att |
 
 ## ⚖️ Fiskeregler Nord-Norge
 
 - **Laksevassdrag**: Særskilt reglar, sjå miljødirektoratet
-- **Fredningstider**: Følg lokale reglar
+- **Fredningstid**: Følg lokale reglar
 - **Minstemål**: Sjekk gjeldande minstemål for kvar art
 
 ## 📱 Nyttige app-ar
@@ -76,9 +72,13 @@ Finnmark byr på arktisk fiskeoppleving - fra kystfiske til innlandsører.
 | Lenkje | Beskrivelse |
 |--------|-------------|
 | [Lofoten.info](https://www.lofoten.info) | Turistinfo Lofoten |
-| [Tromsø.no](https://www.tromso.no) | Turistinfo Tromsø |
+| [Visit Tromsø](https://www.visittromso.no) | Turistinfo Tromsø |
 | [Visit Norway - Fishing](https://www.visitnorway.com/things-to-do/outdoor-activities/fishing/) | Offisiell fiskeguide |
+
+## 📰 Blogg-innlegg
+
+- [Vinterfiske i Lofoten](../blog/lofo-2.md) - Ein rå vintertur
 
 ---
 
-*Data: NordFisk, Mars 2026*
+*Data: NordFISK, Mars 2026*

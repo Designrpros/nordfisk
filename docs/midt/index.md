@@ -1,40 +1,43 @@
 ---
 title: 🇳🇴 Midt-Norge
-description: Fiskesteder på Midt-Norge - Trøndelag og Møre
+description: Fiskesteder i Trøndelag og Møre - Trondheim, Mjøsa, Romsdalen
 ---
 
 # 🇳🇴 Midt-Norge
-
-> Trondheim, Mjøsna og kysten - mangfaldig fiske
 
 <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=6.0,62.5,11.0,64.0&layer=mapnik"></iframe>
 
 ## 🐟 Beste fiskesteder Midt-Norge
 
-| Stad | Art | Sesong | Vanskeleg | Kva? |
-|------|-----|--------|-----------|-------|
-| [Trondheim](trondheim.md) | Laks, torsk, sei | April-Sept | ★★☆ | Norges laksehovedstad |
-| [Mjøsa](mjos.md) | Gjedde, abbor, mort | April-Sept | ★☆☆ | Noregs største innsjø |
-| [Romsdalen](romsdal.md) | Torsk, sei, laks | Mai-Sept | ★★☆ | Fjord og fjell |
-| [Kristiansund](kristiansund.md) | Torsk, kveite | Hele året | ★★☆ | Premium torsk |
-| [Molde](molde.md) | Torsk, sei | Hele året | ★☆☆ | By-nært fiske |
+| Stad | Art | Sesong | Vanskeleg |
+|------|-----|--------|-----------|
+| [Trondheim](trondheim.md) | Laks, torsk, sei | April-Sept | ★★☆ |
+| [Mjøsa](mjos.md) | Gjedde, abbor, mort | April-Sept | ★☆☆ |
+| [Romsdalen](romsdal.md) | Torsk, sei, laks | Mai-Sept | ★★☆ |
+| [Kristiansund](kristiansund.md) | Torsk, kveite | Hele året | ★★☆ |
+| [Molde](molde.md) | Torsk, sei | Hele året | ★☆☆ |
 
-## 📍 Trondheim-området
+## 📍 Trondheim
+
+Trondheim er Norges laksehovedstad! Byen ligg ved Nidelva og byr på fantastisk fiske.
 
 ### Dei klassiske stadene
 
-| Plass | Art | Tilgjengelegheit | Korleis? |
-|-------|-----|------------------|----------|
-| [Lademoen](trondheim.md#lademoen) | Laks, ørret | Gangsti frå sentrum | ★★☆ |
-| [Munkholmen](trondheim.md#munkholmen) | Torsk, sei | Båt frå Ravnåka | ★★☆ |
-| [Bratsberg](trondheim.md#bratsberg) | Gjedde, abbor | Bil 10 min | ★☆☆ |
+| Plass | Art | Tilgjengelegheit |
+|-------|-----|------------------|
+| [Lademoen](trondheim.md#sentrum) | Laks, ørret | Gangsti frå sentrum |
+| [Munkholmen](trondheim.md#rundt-trondheim) | Torsk, sei | Båt frå Ravnåka |
+| [Bratsberg](trondheim.md#rundt-trondheim) | Gjedde, abbor | Bil 10 min |
 
-### Trondheim by-nært
+## 📍 Mjøsa
 
-**Gratis by-nært fiske:**
-- Lademoen - Elvefiske rett i sentrum!
-- Fjordholmen - Båt 20 min
-- Hommelstø - Buss + gange
+**Noregs største innsjø** - 365 km²!
+
+| Område | Art | Korleis? |
+|--------|-----|----------|
+| Hamar | Gjedde, abbor | By-nært, gangsti |
+| Lillehammer | Gjedde, mort | Båt eller frå land |
+| Moelv | Abbor, mort | Fredagstur-klassikar |
 
 ## 🎣 Sesongkalender Midt-Norge
 
@@ -51,11 +54,11 @@ description: Fiskesteder på Midt-Norge - Trøndelag og Møre
 
 ## 🗺️ Google Maps Midt-Norge
 
-| Kategori | Lenkje |
-|----------|--------|
-| 🎣 Fiskesteder | [Søk Midt-Norge](https://www.google.com/maps/search/fiskesteder/@63.0,10.0,9m) |
-| 🚤 Båtutleige | [Søk Midt-Norge](https://www.google.com/maps/search/båtutleige/@63.0,10.0,9m) |
-| 🎣 Fiskekort | [Søk Midt-Norge](https://www.google.com/maps/search/fiskekort/@63.0,10.0,9m) |
+| Søk etter |
+|-----------|
+| [Fiskesteder Trondheim](https://www.google.com/maps/search/fiskesteder+i+Trondheim) |
+| [Fiskesteder Mjøsa](https://www.google.com/maps/search/fiskesteder+Mjøsa) |
+| [Båtutleige Trondheim](https://www.google.com/maps/search/båtutleige+i+Trondheim) |
 
 ## ⚖️ Fiskekort Midt-Norge
 
@@ -75,16 +78,6 @@ description: Fiskesteder på Midt-Norge - Trøndelag og Møre
 | Bergen | 6 timer | 1.5 time |
 | Bodø | 6 timer | 1.5 time |
 
-## 🏔️ Mjøsa
-
-**Noregs største innsjø** - 365 km²!
-
-| Område | Art | Korleis? |
-|--------|-----|----------|
-| Hamar | Gjedde, abbor | By-nært, gangsti |
-| Lillehammer | Gjedde, mort | Båt eller frå land |
-| Moelv | Abbor, mort | Fredagstur-klassikar |
-
 ## 🔗 Nyttige lenkjer
 
 | Lenkje | Beskrivelse |
@@ -94,4 +87,4 @@ description: Fiskesteder på Midt-Norge - Trøndelag og Møre
 
 ---
 
-*Lurt på meir? → [[guides/ferskvann|Ferskvann-guiden]]*
+*Tilbake til [forsida](../index.md)*

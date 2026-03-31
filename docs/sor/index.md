@@ -1,33 +1,33 @@
 ---
 title: 🇳🇴 Sørlandet
-description: Fiskesteder på Sørlandet - Kristiansand, Arendal, Mandal
+description: Fiskesteder på Sørlandet - Kristiansand, Arendal, Mandal, Rogaland
 ---
 
-# 🇳🇴/Sørlandet
-
-> Sol, strand og torsk - Sørlandet har alt
+# 🇳🇴 Sørlandet
 
 <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=6.5,57.8,9.0,58.7&layer=mapnik"></iframe>
 
 ## 🐟 Beste fiskesteder Sørlandet
 
-| Stad | Art | Sesong | Vanskeleg | Kva? |
-|------|-----|--------|-----------|-------|
-| [Kristiansand](kristiansand.md) | Torsk, makrell, kveite | Mars-Sept | ★★☆ | By-nært, fleire spots |
-| [Arendal](arendal.md) | Torsk, sei | Hele året | ★☆☆ | Kaier og strand |
-| [Mandal](mandal.md) | Torsk, sjøørret | Mai-Sept | ★★☆ | Kjent for sjøørret |
-| [Lister](lister.md) | Torsk, hai | Mai-Sept | ★★★ | Premium-område |
+| Stad | Art | Sesong | Vanskeleg |
+|------|-----|--------|-----------|
+| [Kristiansand](kristiansand.md) | Torsk, makrell, kveite | Mars-Sept | ★★☆ |
+| [Arendal](arendal.md) | Torsk, sei | Hele året | ★☆☆ |
+| [Mandal](mandal.md) | Torsk, sjøørret | Mai-Sept | ★★☆ |
+| [Rogaland](rogaland.md) | Torsk, kveite | Mars-Sept | ★★☆ |
 
-## 📍 Kristiansand-området
+## 📍 Kristiansand
+
+Kristiansand er Sørlandets hovedstad med variert fiske.
 
 ### Beste by-nære spots
 
-| Plass | Art | Tilgjengelegheit | Korleis? |
-|-------|-----|------------------|----------|
-| [Baneheia](kristiansand.md#baneheia) | Abbor, gjeds | Gangsti frå sentrum | ★☆☆ |
-| [Kvavik](kristiansand.md#kvavik) | Torsk, sei | 10 min bil | ★★☆ |
-| [Møvik](kristiansand.md#movik) | Torsk | 15 min bil | ★☆☆ |
-| [Ravnåka](kristiansand.md#ravnaka) | Torsk, sei | Båt | ★★☆ |
+| Plass | Art | Tilgjengelegheit |
+|-------|-----|------------------|
+| [Baneheia](kristiansand.md#baneheia) | Abbor, gjeds | Gangsti frå sentrum |
+| [Kvavik](kristiansand.md#kvavik) | Torsk, sei | 10 min bil |
+| [Møvik](kristiansand.md#movik) | Torsk | 15 min bil |
+| [Ravnåka](kristiansand.md#ravnaka) | Torsk, sei | Båt |
 
 ### For sjøørret
 
@@ -38,6 +38,15 @@ Sørlandet er kjent for **sjøørret** - spesielt:
 | Mandal-elva | Følg elva opp | Mai-Juni |
 | Audna | Gangsti frå Mandal | Mai-Juni |
 | Tryland | Båt | Aug-Sept |
+
+## 📍 Arendal
+
+Arendal har gode kaier for torsk og sei.
+
+| Spot | Art | Korleis? |
+|------|-----|----------|
+| Sentrum | Torsk, sei | Berre gå dit! |
+| Eydehavn | Torsk | Bil 10 min |
 
 ## 🎣 Sesongkalender Sørlandet
 
@@ -54,11 +63,10 @@ Sørlandet er kjent for **sjøørret** - spesielt:
 
 ## 🗺️ Google Maps Sørlandet
 
-| Kategori | Lenkje |
-|----------|--------|
-| 🎣 Fiskesteder | [Søk Sørlandet](https://www.google.com/maps/search/fiskesteder/@58.2,7.5,9m) |
-| 🚤 Båtutleige | [Søk Sørlandet](https://www.google.com/maps/search/båtutleige/@58.2,7.5,9m) |
-| 🎣 Fiskeguide | [Søk Sørlandet](https://www.google.com/maps/search/fiskeguide/@58.2,7.5,9m) |
+| Søk etter |
+|-----------|
+| [Fiskesteder Kristiansand](https://www.google.com/maps/search/fiskesteder+i+Kristiansand) |
+| [Båtutleige Sørlandet](https://www.google.com/maps/search/båtutleige+Sørlandet) |
 
 ## ⚖️ Fiskekort Sørlandet
 
@@ -78,21 +86,6 @@ Sørlandet er kjent for **sjøørret** - spesielt:
 | Arendal | 2.5 timer | 3 timer |
 | Mandal | 3 timer | 3.5 timer |
 
-### Parkering
-
-- Dei fleste fiskestadene har **gratis parkering**
-- sentrum = dyrt, 40-60kr/timen
-
-## 🏖️ Kombinér med bading!
-
-Sørlandet = **fiske + stranda!**
-
-| Strand | Kva fisk der? | Badetemperatur |
-|--------|--------------|---------------|
-| Bystranda | Torsk, sei | 18-22°C (sommar) |
-| Hamresanden | Abbor nær | 19-23°C |
-| Hviteflikene | Torsk | 17-21°C |
-
 ## 🔗 Nyttige lenkjer
 
 | Lenkje | Beskrivelse |
@@ -102,4 +95,4 @@ Sørlandet = **fiske + stranda!**
 
 ---
 
-*Vil du lære meir? → [[guides/sjofiske|Sjøfiske-guiden]]*
+*Tilbake til [forsida](../index.md)*
