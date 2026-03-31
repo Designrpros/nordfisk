@@ -13,16 +13,16 @@ Velkommen til NordFisk-bloggen! Her deler vi erfaringar, tips og rapportar frå 
 
 | Dato | Tittel | Område |
 |------|--------|--------|
-| Mars | [[min-forste-fisketur|Min første fisketur]] | Oslo |
-| Mars | [[lofo-2|Vinterfiske i Lofoten]] | Lofoten |
-| Mars | [[bergen-kaia|Bergens beste kaier]] | Bergen |
+| Mars | [Min første fisketur](min-forste-fisketur.md) | Oslo |
+| Mars | [Vinterfiske i Lofoten](lofo-2.md) | Lofoten |
+| Mars | [Bergens beste kaier](bergen-kaia.md) | Bergen |
 
 ### 2025
 
 | Dato | Tittel | Område |
 |------|--------|--------|
-| November | [[hostfiske|Hostfiske - beste tida]] | Oslo |
-| September | [[sjomat|Lokal sjømat - korleis eta]] | Rogaland |
+| November | [Høstfiske - beste tida](hostfiske.md) | Oslo |
+| September | [Lokal sjømat - korleis eta](sjomat.md) | Rogaland |
 
 ---
 
@@ -52,4 +52,4 @@ Har du vore på ein artig fisketur? Send inn din rapport!
 
 ---
 
-*Vil du lesa meir? → [[../guides/nybyrjar|Nybyrjarguide]*
+*Tilbake til [forsida](../index.md) eller les [Nybyrjarguiden](../guides/nybyrjar.md)*
